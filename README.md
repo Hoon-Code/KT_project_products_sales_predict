@@ -21,5 +21,9 @@
 ![image](https://github.com/user-attachments/assets/9bd133d8-afc3-4a5f-b2d7-4f872703712e)
 
 - **대상 : 3개의 핵심상품**
+-> 2명씩 역할 나눠서 각 상품에 대한 데이터 탐색 및 가설 도출
 
 ![image](https://github.com/user-attachments/assets/2969396b-3db1-4857-87d2-46d7cb142267)
+
+---
+### 12번 상품에 대한 시계열 패턴 찾기
